@@ -1,0 +1,8 @@
+[global]
+dataFrameSerialization = "arrow"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
