@@ -8,8 +8,8 @@ import os
 # -------------------------------------------------------------
 #  FILE PATHS — edit these two lines
 # -------------------------------------------------------------
-CSV_PATH   = r"F:\sankar project\Agentic model\Mesh_Agentic_AI\validation_dataset.csv"   # your telemetry CSV
-MODEL_PATH = r"F:\sankar project\Agentic model\Mesh_Agentic_AI\random_forest_model_fixed.pkl"   # your trained RF model
+CSV_PATH   = r"F:\sankar project\Agentic model\Mesh_Agentic_AI\data\validation_dataset.csv"   # your telemetry CSV
+MODEL_PATH = r"F:\sankar project\Agentic model\Mesh_Agentic_AI\model\random_forest_model_fixed.pkl"   # your trained RF model
 # -------------------------------------------------------------
 
 # Feature names expected by the model (must match training order)
